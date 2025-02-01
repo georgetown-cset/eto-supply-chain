@@ -42,7 +42,7 @@
     "sass": "^1.71.1"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^6.6.2",
+    "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.0.1",
     "@testing-library/user-event": "^14.6.1",
     "babel-jest": "^29.7.0",
