@@ -22,7 +22,7 @@
     "@eto/eto-ui-components": "^1.10.0",
     "@mdx-js/mdx": "^2.1.13",
     "@mdx-js/react": "^2.1.13",
-    "@mui/icons-material": "^5.15.11",
+    "@mui/icons-material": "^6.4.2",
     "@mui/material": "^5.16.7",
     "gatsby": "^5.11.0",
     "gatsby-plugin-emotion": "^8.4.0",
